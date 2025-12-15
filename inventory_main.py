@@ -4,7 +4,7 @@ For how to on QTextBrowser: https://www.tutorialspoint.com/pyqt/pyqt_qtextbrowse
 """
 
 import sys
-from PySide6.QtWidgets import QApplication, QWidget
+from PyQt6.QtWidgets import QApplication, QWidget
 from inventory_gui import Ui_Inventory
 import inventory_logic as logic
 
